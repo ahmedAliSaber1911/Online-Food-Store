@@ -1,0 +1,24 @@
+header{
+  background-color: white;
+  padding: 0;
+  border-bottom: 1px solid #e72929;
+}
+a{
+  color: #af1313;
+  padding: 1rem;
+}
+a:hover{
+  color: white;
+  background-color: #e72929;
+}
+.container{
+  display: flex;
+  justify-content: space-between ;
+  padding: 0 auto ;
+}
+.logo{
+  font-weight: bold;
+}
+.cart{
+  display: inline-block;
+}
