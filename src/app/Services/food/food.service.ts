@@ -64,7 +64,7 @@ export class FoodService {
       favorite: false,
       origins: ['italy'],
       stars: 4.5,
-      imageUrl: '/assets/images/foods/food-1.jpg',
+      imageUrl: 'assets/images/foods/food-1.jpg',
       tags: ['FastFood', 'Pizza', 'Lunch'],
     },
     {
@@ -75,7 +75,7 @@ export class FoodService {
       favorite: true,
       origins: ['persia', 'middle east', 'china'],
       stars: 4.7,
-      imageUrl: '/assets/images/foods/food-2.jpg',
+      imageUrl: 'assets/images/foods/food-2.jpg',
       tags: ['SlowFood', 'Lunch'],
     },
     {
@@ -86,7 +86,7 @@ export class FoodService {
       favorite: false,
       origins: ['germany', 'us'],
       stars: 3.5,
-      imageUrl: '/assets/images/foods/food-3.jpg',
+      imageUrl: 'assets/images/foods/food-3.jpg',
       tags: ['FastFood', 'Hamburger'],
     },
     {
@@ -97,7 +97,7 @@ export class FoodService {
       favorite: true,
       origins: ['belgium', 'france'],
       stars: 3.3,
-      imageUrl: '/assets/images/foods/food-4.jpg',
+      imageUrl: 'assets/images/foods/food-4.jpg',
       tags: ['FastFood', 'Fry'],
     },
     {
@@ -108,7 +108,7 @@ export class FoodService {
       favorite: false,
       origins: ['india', 'asia'],
       stars: 3.0,
-      imageUrl: '/assets/images/foods/food-5.jpg',
+      imageUrl: 'assets/images/foods/food-5.jpg',
       tags: ['SlowFood', 'Soup'],
     },
     {
@@ -119,7 +119,7 @@ export class FoodService {
       favorite: true,
       origins: ['italy'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-6.jpg',
+      imageUrl: 'assets/images/foods/food-6.jpg',
       tags: ['FastFood', 'Pizza', 'Lunch'],
     },
     {
@@ -130,7 +130,7 @@ export class FoodService {
       favorite: true,
       origins: ['amercia' , 'egypt'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-7.jpg',
+      imageUrl: 'assets/images/foods/food-7.jpg',
       tags: ['FastFood', 'Chicken', 'Lunch'],
     },
 
@@ -142,7 +142,7 @@ export class FoodService {
       favorite: false,
       origins: ['amercia' ,'qatar'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-8.jpg',
+      imageUrl: 'assets/images/foods/food-8.jpg',
       tags: ['FastFood', 'Chicken', 'Lunch'],
     },
     {
@@ -153,7 +153,7 @@ export class FoodService {
       favorite: false,
       origins: ['italy' ],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-9.jpg',
+      imageUrl: 'assets/images/foods/food-9.jpg',
       tags: ['FastFood', 'Pasta', 'Lunch'],
     },
     {
@@ -164,7 +164,7 @@ export class FoodService {
       favorite: true,
       origins: ['amercia' , 'egypt'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-10.jpg',
+      imageUrl: 'assets/images/foods/food-10.jpg',
       tags: ['FastFood', 'Chicken', 'Lunch'],
     },
     {
@@ -175,7 +175,7 @@ export class FoodService {
       favorite: false,
       origins: ['amercia' , 'france'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-11.jpg',
+      imageUrl: 'assets/images/foods/food-11.jpg',
       tags: ['SlowFood', 'Meat', 'Lunch'],
     },
 
@@ -187,7 +187,7 @@ export class FoodService {
       favorite: false,
       origins: ['england' , 'egypt'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-12.jpg',
+      imageUrl: 'assets/images/foods/food-12.jpg',
       tags: ['FastFood', 'vegetable'],
     },
     {
@@ -198,7 +198,7 @@ export class FoodService {
       favorite: true,
       origins: ['syria' , 'egypt'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-13.jpg',
+      imageUrl: 'assets/images/foods/food-13.jpg',
       tags: ['FastFood', 'Chicken'],
     },
     {
@@ -209,7 +209,7 @@ export class FoodService {
       favorite: false,
       origins: ['france' , 'egypt'],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-14.jpg',
+      imageUrl: 'assets/images/foods/food-14.jpg',
       tags: ['FastFood', 'Chicken', 'Lunch'],
     },
     {
@@ -220,7 +220,7 @@ export class FoodService {
       favorite: false,
       origins: ['china' ],
       stars: 4.0,
-      imageUrl: '/assets/images/foods/food-15.jpg',
+      imageUrl: 'assets/images/foods/food-15.jpg',
       tags: ['SlowFood', 'Sushi'],
     },
 
